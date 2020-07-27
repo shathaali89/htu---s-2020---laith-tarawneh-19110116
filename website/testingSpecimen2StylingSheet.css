@@ -1,0 +1,25 @@
+h1 {
+    color: teal;
+    background-color: ghostwhite;
+    text-align: center;
+}
+p {
+    color: firebrick;
+    text-align: center;
+}
+#one {
+    background-color: khaki;
+    color: maroon;
+    text-justify: distribute;
+    text-align: justify;
+}
+h2,h3{
+    color: olive;
+    text-align: right;
+}
+body{
+    background-color: rgb(235, 240, 240);
+}
+  /* * {
+            color: magenta;
+        } */
