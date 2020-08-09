@@ -1,0 +1,37 @@
+#head1{
+    color: maroon;
+    font-size: 30px;
+    text-decoration: underline;
+    line-height: 15px;
+    margin: 2cm;
+}
+p,h3,h4{
+    font-family: 'Times New Roman', Times, serif;
+    color:saddlebrown;
+    font-size: 28px;
+    line-height: 50px;
+    font-style: italic;
+    background-color: seashell;
+    margin: 2cm;
+}
+.img{
+    border-style: double;
+    border-color: brown;
+    width: 9cm;
+    height: 7cm;
+    opacity: 0.5;
+    margin: 5mm;
+}
+body{
+    background-image:url(/Images/goodBackground.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.headingBackg{
+position: absolute;
+left: 0px;
+right: 0px;
+z-index: -1;
+}
+
